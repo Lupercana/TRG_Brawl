@@ -10,15 +10,18 @@
     <sprite>sprites\floor_sp</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
+    <background>background\sun_and_clouds_bg</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\collisionDirection_s.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\floor_obj</object>
     <object>objects\fighter_obj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\arena0</room>
+    <room>rooms\basic_rm</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
