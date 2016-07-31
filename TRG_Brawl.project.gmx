@@ -11,6 +11,7 @@
     <sprite>sprites\fighter_still_sp</sprite>
     <sprite>sprites\fighter_fireball_sp</sprite>
     <sprite>sprites\fireball_sp</sprite>
+    <sprite>sprites\heart_sp</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\sun_and_clouds_bg</background>
@@ -18,8 +19,6 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\collisionDirection_s.gml</script>
-    <script>scripts\moveRight_s.gml</script>
-    <script>scripts\moveLeft_s.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\floor_obj</object>
