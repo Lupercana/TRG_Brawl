@@ -20,6 +20,7 @@
   <width>16</width>
   <height>16</height>
   <frames>
-    <frame index="0">images\fighter_sp_0.png</frame>
+    <frame index="0">images\fighter_walking_sp_0.png</frame>
+    <frame index="1">images\fighter_walking_sp_1.png</frame>
   </frames>
 </sprite>
